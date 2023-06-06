@@ -25,7 +25,8 @@ result=np.linalg.solve(A,B)
 print(result)
 ```
 ## Output:
-![Uploading Screenshot 2023-06-06 112140.png…]()
+![image](https://github.com/ChandrasekarS22008273/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/119643845/6610c096-f3a4-4993-b624-983554a38512)
+
 
 
 ## Result: 
